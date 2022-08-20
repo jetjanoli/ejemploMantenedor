@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ejemploMantenedor",
+    "slug": "ejemploMantenedor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
